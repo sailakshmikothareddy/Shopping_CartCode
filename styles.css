@@ -5,7 +5,6 @@
     font-family: sans-serif;
 }
 
-/* Re-usable classes */
 .pad {
     padding-left: 25px;
     padding-right: 25px;
@@ -241,7 +240,6 @@ select {
     color: #000; 
 }
 
-/* ------------------ Dynamik Styles ----------------------- */
 .active-box-style {
     display: block;
     outline: 1.904px solid #007F61;
